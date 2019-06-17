@@ -2,7 +2,7 @@
   "name": "ynab-sbanken-csv-converter",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://hillannon.github.io/ynab-sbanken-csv-converter",
+  "homepage": "https://hillannon.github.io/ynab-sbanken-csv-converter",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
