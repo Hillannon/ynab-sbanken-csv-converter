@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ynab-sbanken-csv-converter/static/css/main.2cce8147.chunk.css",
+    "main.js": "/ynab-sbanken-csv-converter/static/js/main.94cd2185.chunk.js",
+    "main.js.map": "/ynab-sbanken-csv-converter/static/js/main.94cd2185.chunk.js.map",
+    "runtime~main.js": "/ynab-sbanken-csv-converter/static/js/runtime~main.3750f90a.js",
+    "runtime~main.js.map": "/ynab-sbanken-csv-converter/static/js/runtime~main.3750f90a.js.map",
+    "static/js/2.b41502e9.chunk.js": "/ynab-sbanken-csv-converter/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/ynab-sbanken-csv-converter/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/ynab-sbanken-csv-converter/index.html",
+    "precache-manifest.1ed80be977c6d1f729e03d567063bb5e.js": "/ynab-sbanken-csv-converter/precache-manifest.1ed80be977c6d1f729e03d567063bb5e.js",
+    "service-worker.js": "/ynab-sbanken-csv-converter/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/ynab-sbanken-csv-converter/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/ynab-sbanken-csv-converter/static/media/logo.5d5d9eef.svg"
+  }
+}
