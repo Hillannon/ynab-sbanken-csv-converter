@@ -1,0 +1,1 @@
+# ynab-sbanken-csv-converter
